@@ -1,0 +1,10 @@
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\bin\Debug\Kitaplık.exe.config
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\bin\Debug\Kitaplık.exe
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\bin\Debug\Kitaplık.pdb
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\obj\Debug\Kitaplık.csprojAssemblyReference.cache
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\obj\Debug\Kitaplık.Properties.Resources.resources
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\obj\Debug\Kitaplık.csproj.GenerateResource.cache
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\obj\Debug\Kitaplık.csproj.CoreCompileInputs.cache
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\obj\Debug\Kitaplık.exe
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\obj\Debug\Kitaplık.pdb
+C:\Users\Metin\source\repos\Metin Form\Kitaplık\Kitaplık\obj\Debug\Kitaplık.Anasayfa.resources
